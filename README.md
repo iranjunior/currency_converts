@@ -1,3 +1,3 @@
 # currency_converts
 
-![screenshot](https://github.com/iranjunior/currency_converts/blob/master/currency_converts.jpg?raw=true)
+![screenshot](https://raw.githubusercontent.com/iranjunior/currency_converts/main/currency_converts.jpg)
